@@ -1,0 +1,9 @@
+This is a port of the TLD algorithm to C.
+
+The code is based off of the original work of http://info.ee.surrey.ac.uk/Personal/Z.Kalal/tld.html
+
+This port will be tested against the values reached by the original source code.
+
+It so far conforms to the initial setup of the _input source code, except for being 0-indexed instead of 1-indexed.
+
+
